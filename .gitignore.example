@@ -1,0 +1,11 @@
+.htaccess
+.htpasswd
+/wp-content/uploads/*
+# wp-content/themes/salons/inc/*
+# wp-content/themes/cca/inc/*
+config-local-mg.php
+# Fichiers specifique a PHPStorm.
+*.idea/*
+/data/
+/.env
+/docker-compose.override.yml
